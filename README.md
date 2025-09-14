@@ -1,4 +1,4 @@
-Sipply-Left-Over-Food-Naan_Mudhalvan
+Supply-Left-Over-Food-Naan_Mudhalvan
 Naan Mudhalvan SalesForce Project
 Project Title : Supply Left Over Food
 Team Mates:
